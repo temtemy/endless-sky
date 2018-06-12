@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: You found a bug? Great! Please report it by using the template below. Feel
+about: You found a bug? Great! Please report it by using our template. Feel
   free to change its structure as you wish.
 
 ---
